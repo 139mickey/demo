@@ -1,3 +1,7 @@
+Practice symfony development
+========================
+For use testing and practice only
+
 Symfony Demo Application
 ========================
 
